@@ -43,7 +43,7 @@ Build out the `<App>`, `<ShowDetails>`, and `<ShowSelection>` components to rend
 10. `<App>` keeps the selected show in a state variable.
 11. `<App>` renders `<ShowSelection>` within the `<header>` and `<ShowDetails>` within the `<main>`.
 12. `<ShowSelection>` and `<ShowDetails>` are provided the correct props. You just wrote these components, so you should know what props they expect!
-
+s
 ## Submission
 
 Please submit the link to your public GitHub repository.
